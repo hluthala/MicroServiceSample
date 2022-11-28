@@ -1,0 +1,5 @@
+/Users/admin/Documents/GitHub/microservice-map-info/GoogleMapInfo/obj/Debug/net6.0/GoogleMapInfo.csproj.AssemblyReference.cache
+/Users/admin/Documents/GitHub/microservice-map-info/GoogleMapInfo/obj/Debug/net6.0/GoogleMapInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Documents/GitHub/microservice-map-info/GoogleMapInfo/obj/Debug/net6.0/GoogleMapInfo.AssemblyInfoInputs.cache
+/Users/admin/Documents/GitHub/microservice-map-info/GoogleMapInfo/obj/Debug/net6.0/GoogleMapInfo.AssemblyInfo.cs
+/Users/admin/Documents/GitHub/microservice-map-info/GoogleMapInfo/obj/Debug/net6.0/GoogleMapInfo.csproj.CoreCompileInputs.cache

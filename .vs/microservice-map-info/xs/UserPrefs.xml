@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{3D90FC7F-8D46-45E4-8721-0DB75441DA35}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp/Program.cs">
+    <Files>
+      <File FileName="microservice-map-info/appsettings.json" Line="16" Column="1" />
+      <File FileName="GoogleMapInfo/Class1.cs" Line="1" Column="1" />
+      <File FileName="GoogleMapInfo/GoogleDistanceApi.cs" Line="15" Column="9" />
+      <File FileName="GoogleMapInfo/GoogleDistanceData.cs" Line="22" Column="43" />
+      <File FileName="microservice-map-info/Controllers/MapInfoController.cs" Line="21" Column="9" />
+      <File FileName="microservice-map-info/Controllers/WeatherForecastController.cs" Line="6" Column="24" />
+      <File FileName="microservice-map-info/Program.cs" Line="33" Column="35" />
+      <File FileName="microservice-map-info/Protos/distance.proto" Line="9" Column="15" />
+      <File FileName="microservice-map-info/Services/DistanceInfoService.cs" Line="27" Column="56" />
+      <File FileName="microservice-map-info/microservice-map-info.csproj" Line="14" Column="1" />
+      <File FileName="ConsoleApp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="microservice-map-info" expanded="True">
+            <Node name="ConsoleApp" expanded="True" selected="True" />
+            <Node name="GoogleMapInfo" expanded="True" />
+            <Node name="microservice-map-info" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.microservice-map-info PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
